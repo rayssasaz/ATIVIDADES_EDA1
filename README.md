@@ -1,4 +1,4 @@
-#README
+# README
 
 Este repositório contém todas as atividades desenvolvidas durante o terceiro semestre do curso de engenharia de computação na disciplina de estrutura de dados 1, conforme o conteúdo programático:
 - Programação modular (procedimentos, funções e passagem de parâmetros);
